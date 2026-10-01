@@ -1,2 +1,0 @@
-# environemnt-simulation
-spatial ai
